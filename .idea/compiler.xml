@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="E12-Auth-server" />
+        <module name="E10" />
+        <module name="E13-Auth-server" />
+        <module name="E15-Resource-server" />
+        <module name="E1" />
+        <module name="E2" />
+        <module name="E3" />
+        <module name="E4" />
+        <module name="E5" />
+        <module name="E6" />
+        <module name="E7" />
+        <module name="E14-Resource-server" />
+        <module name="E16-Client" />
+        <module name="E11-Auth-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="E1" options="-parameters" />
+      <module name="E10" options="-parameters" />
+      <module name="E11-Auth-server" options="-parameters" />
+      <module name="E12-Auth-server" options="-parameters" />
+      <module name="E13-Auth-server" options="-parameters" />
+      <module name="E14-Resource-server" options="-parameters" />
+      <module name="E15-Resource-server" options="-parameters" />
+      <module name="E16-Client" options="-parameters" />
+      <module name="E2" options="-parameters" />
+      <module name="E3" options="-parameters" />
+      <module name="E4" options="-parameters" />
+      <module name="E5" options="-parameters" />
+      <module name="E6" options="-parameters" />
+      <module name="E7" options="-parameters" />
+    </option>
+  </component>
+</project>

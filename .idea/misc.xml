@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/E1/pom.xml" />
+        <option value="$PROJECT_DIR$/E2/pom.xml" />
+        <option value="$PROJECT_DIR$/E3/pom.xml" />
+        <option value="$PROJECT_DIR$/E4/pom.xml" />
+        <option value="$PROJECT_DIR$/E5/pom.xml" />
+        <option value="$PROJECT_DIR$/E6/pom.xml" />
+        <option value="$PROJECT_DIR$/E7/pom.xml" />
+        <option value="$PROJECT_DIR$/E10/pom.xml" />
+        <option value="$PROJECT_DIR$/E11-Auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/E12-Auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/E13-Auth-server/pom.xml" />
+        <option value="$PROJECT_DIR$/E14-Resource-server/pom.xml" />
+        <option value="$PROJECT_DIR$/E15-Resource-server/pom.xml" />
+        <option value="$PROJECT_DIR$/E17-Client/pom.xml" />
+        <option value="$PROJECT_DIR$/E16-Client/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="openjdk-21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
